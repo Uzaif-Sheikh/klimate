@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  klimate:
+    image: klimate
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 5000:5000
