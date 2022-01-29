@@ -1,0 +1,2 @@
+module ClimateUpdateHelper
+end

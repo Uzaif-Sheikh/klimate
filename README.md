@@ -13,8 +13,6 @@ The main inspiration behind building this web application gives support to the p
 
 ## Prerequisites
 - [Ruby]()
-- [SQLite3]()
-- [Node.js](https://nodejs.org/en/)
 - [Rails](https://rubyonrails.org/)
 - Container runtime [Docker](https://docs.docker.com/)
 
