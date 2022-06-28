@@ -5,7 +5,9 @@
 
 ## About
 
-The main inspiration behind building this web application gives support to the people who are in need during the climate crisis. Providing valuable survival suggestions.. Providing valueble survival suggestion. The AI built in it analyzes the question and provide suggestion based on it. 
+- This app is designed to help people who have been adversely affected by natural disasters.
+- Providing valuable survival suggestions. The AI built-in it analyzes questions and provides suggested solutions based on it.
+
 ## What it does
 - Chat support when city network is down.
 - Records rescue location.
